@@ -72,6 +72,11 @@ div.todoStatusDELETED  {
 .requiresPadding {
     margin: 2px;
 }
+
+button {
+    cursor: pointer;
+}
+
 .requiresHorizontalPadding {
     margin-left: 2px;
     margin-right: 2px;
